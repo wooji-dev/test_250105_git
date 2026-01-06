@@ -48,5 +48,3 @@ git push -u origin feature/learn-git
 
 - Pro Git (무료 책): https://git-scm.com/book/ko/v2
 - Git 공식 문서: https://git-scm.com/docs
-
-원하시면 실습용 스크립트와 단계별 튜토리얼(명령어와 기대 결과)을 추가로 만들어드리겠습니다.
